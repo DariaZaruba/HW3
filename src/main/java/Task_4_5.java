@@ -17,6 +17,5 @@ public class Task_4_5 {
             return a;
         }
         return b;
-//        return Math.min(a, b);
     }
 }
