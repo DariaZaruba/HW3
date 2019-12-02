@@ -1,4 +1,4 @@
-package folder;
+package folder.HW3;
 
 public class Lesson_31 {
     public static void main(String[] args) {

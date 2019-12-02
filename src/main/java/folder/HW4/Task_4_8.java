@@ -1,4 +1,4 @@
-//8. Write a program which prints the next figure to the console:
+package folder.HW4;//8. Write a program which prints the next figure to the console:
 //**********
 //**********
 //**********

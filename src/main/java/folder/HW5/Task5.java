@@ -11,6 +11,14 @@ public class Task5 {
         private int age;
         private int weight;
 
+        public int getWeight() {
+            return weight;
+        }
+
+        public void setWeight(int weight) {
+            this.weight = weight;
+        }
+
         public Cat(String name, int age, int weight) {
             this.name = name;
             this.age = age;
